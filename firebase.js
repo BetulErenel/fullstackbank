@@ -6,12 +6,12 @@ import { getAuth } from "firebase/auth";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyB3DiHYGo6irZ3lJ26ERsdhA7wQafnecGw",
+  apiKey: "***",
   authDomain: "bankapp-b1c47.firebaseapp.com",
   projectId: "bankapp-b1c47",
   storageBucket: "bankapp-b1c47.appspot.com",
-  messagingSenderId: "479268736472",
-  appId: "1:479268736472:web:0787f80d5f304365a636ad"
+  messagingSenderId: "**",
+  appId: "***"
 };
 
 
